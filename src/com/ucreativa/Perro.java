@@ -48,5 +48,11 @@ public class Perro {
 	public String toString() {
 		return "Perro - Nombre: " + " " + nombre + " Color: " + color + " Nivel de Hambre: " + nivelHambre;
 	}
+	
+	public void ladrar() {}
+	
+	public void traerBola() {}
+	
+	public void comer() {}
 
 }
